@@ -1,0 +1,25 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#5ba2d6",
+        "activityBar.activeBorder": "#b22d7a",
+        "activityBar.background": "#5ba2d6",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#b22d7a",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "statusBar.background": "#338bcb",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#5ba2d6",
+        "titleBar.activeBackground": "#338bcb",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#338bcb99",
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "sash.hoverBorder": "#5ba2d6",
+        "statusBarItem.remoteBackground": "#338bcb",
+        "statusBarItem.remoteForeground": "#e7e7e7"
+    },
+    "peacock.color": "#338bcb",
+    "code-runner.executorMap": {
+        "scheme": "chez --script"
+    }
+}
